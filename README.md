@@ -2,12 +2,12 @@
 <p>“As is a tale, so is life: not how long it is, but how good it is, is what matters.”</p>
 
 <p align="center">
-  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/Lua_Logo.png" width="150" alt="Logo Lua">
-  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/VSCode_Logo.png" width="150" alt="Logo VSCode">
-  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/Roblox_Logo.png" width="150" alt="Logo Roblox">
-  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/Python_Logo.png" width="150" alt="Logo Python">
-  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/HTML_Logo.png" width="150" alt="Logo HTML">
-  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/CSS_Logo.png" width="150" alt="Logo CSS">
+  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/Lua_Logo.png" width="125" alt="Logo Lua">
+  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/VSCode_Logo.png" width="125" alt="Logo VSCode">
+  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/Roblox_Logo.png" width="125" alt="Logo Roblox">
+  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/Python_Logo.png" width="125" alt="Logo Python">
+  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/HTML_Logo.png" width="125" alt="Logo HTML">
+  <img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/49ce862d00c122a35706b0f2a96d87e1d66e6d7b/Languages/CSS_Logo.png" width="125" alt="Logo CSS">
 </p>
 
 
@@ -22,8 +22,7 @@
 
 <br> 
 <h2>Current Projects</h2>
-<br> 
-<img src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/fe403fcce08afd876ee391058e257821d234002e/Profile.png" alt="Goku butterfly" width="350" align="right">
+<img  src="https://github.com/Temitope-Ogunbanjo/Temitope-Ogunbanjo/blob/fe403fcce08afd876ee391058e257821d234002e/Profile.png" alt="Goku butterfly" width="275" align="right">
 <ul>
   <li>
     <h3>Technology Internship 🚀</h3>
